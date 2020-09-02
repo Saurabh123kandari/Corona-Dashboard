@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+.header {
+  background-color: #ff9f9f;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer {
+  background-color: #ff9f9f;
+  padding: 10px;
+  text-align: center;
+}
+.container.container1240 {
+  padding: 30px;
+}
+
+.card_row {
+  display: flex;
+  justify-content: center;
+}
+.card_text {
+  font-size: 30px;
+}
+.card-body {
+  text-align: center;
+}
+.card .card-body .card-text {
+  font-size: 1.5rem !important;
+  font-weight: 400;
+  color: #747373;
+}
